@@ -7,3 +7,5 @@ Contributors Guide
 ==================
 
 Fork the project and send me a pull request
+
+Add more test
